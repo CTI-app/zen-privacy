@@ -33,7 +33,7 @@ L'application ne collecte aucune donnée, y compris auprès des utilisateurs min
 
 ## Avertissement santé
 
-ZEN est un outil de bien-être et de relaxation. Elle ne constitue pas un dispositif médical et ne remplace pas un avis, un diagnostic ou un traitement médical.
+ZEN est un outil de bien-être et de relaxation. Elle ne constitue pas un dispositif médical et ne remplace pas un avis, un diagnostic ou un traitement médical. En cas de maladie cardiovasculaire, respiratoire, d'anxiété sévère ou de toute autre condition médicale, demandez l'avis d'un professionnel de santé avant de pratiquer les exercices proposés.
 
 ## Modifications
 
@@ -41,6 +41,11 @@ Cette politique peut être mise à jour. La version publiée sur cette page est 
 
 ## Contact
 
-CTI
+Pour toute question relative à cette politique de confidentialité :
+cti.apps@outlook.com
 
-E-mail : cti.apps@outlook.com
+## Mentions légales
+
+Éditeur de l'application : CTI
+Contact : cti.apps@outlook.com
+Cette application est développée et publiée à titre personnel. Elle est mise à disposition « en l'état », sans garantie d'aucune sorte, notamment quant à son adéquation à un usage médical ou thérapeutique.
