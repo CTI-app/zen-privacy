@@ -1,7 +1,7 @@
 # Politique de confidentialité – ZEN
 
 ## Dernière mise à jour
-10 juillet 2026
+11 juillet 2026
 
 ## Aucune collecte de données personnelles
 
